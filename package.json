@@ -29,6 +29,6 @@
   },
   "scripts": {
     "start": "node app.js",
-    "postinstall": "bash bin/cloudinary.sh && bash bin/aws-s3.sh && bash bin/themes.sh"
+    "postinstall": "bash bin/themes.sh"
   }
 }
